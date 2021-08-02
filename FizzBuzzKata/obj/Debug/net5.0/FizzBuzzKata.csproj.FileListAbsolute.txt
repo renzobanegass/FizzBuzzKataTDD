@@ -1,0 +1,16 @@
+C:\Users\Renzo\Documents\Quark\FizzBuzzKata\FizzBuzzKata\bin\Debug\net5.0\FizzBuzzKata.exe
+C:\Users\Renzo\Documents\Quark\FizzBuzzKata\FizzBuzzKata\bin\Debug\net5.0\FizzBuzzKata.deps.json
+C:\Users\Renzo\Documents\Quark\FizzBuzzKata\FizzBuzzKata\bin\Debug\net5.0\FizzBuzzKata.runtimeconfig.json
+C:\Users\Renzo\Documents\Quark\FizzBuzzKata\FizzBuzzKata\bin\Debug\net5.0\FizzBuzzKata.runtimeconfig.dev.json
+C:\Users\Renzo\Documents\Quark\FizzBuzzKata\FizzBuzzKata\bin\Debug\net5.0\FizzBuzzKata.dll
+C:\Users\Renzo\Documents\Quark\FizzBuzzKata\FizzBuzzKata\bin\Debug\net5.0\ref\FizzBuzzKata.dll
+C:\Users\Renzo\Documents\Quark\FizzBuzzKata\FizzBuzzKata\bin\Debug\net5.0\FizzBuzzKata.pdb
+C:\Users\Renzo\Documents\Quark\FizzBuzzKata\FizzBuzzKata\obj\Debug\net5.0\FizzBuzzKata.csproj.AssemblyReference.cache
+C:\Users\Renzo\Documents\Quark\FizzBuzzKata\FizzBuzzKata\obj\Debug\net5.0\FizzBuzzKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo\Documents\Quark\FizzBuzzKata\FizzBuzzKata\obj\Debug\net5.0\FizzBuzzKata.AssemblyInfoInputs.cache
+C:\Users\Renzo\Documents\Quark\FizzBuzzKata\FizzBuzzKata\obj\Debug\net5.0\FizzBuzzKata.AssemblyInfo.cs
+C:\Users\Renzo\Documents\Quark\FizzBuzzKata\FizzBuzzKata\obj\Debug\net5.0\FizzBuzzKata.csproj.CoreCompileInputs.cache
+C:\Users\Renzo\Documents\Quark\FizzBuzzKata\FizzBuzzKata\obj\Debug\net5.0\FizzBuzzKata.dll
+C:\Users\Renzo\Documents\Quark\FizzBuzzKata\FizzBuzzKata\obj\Debug\net5.0\ref\FizzBuzzKata.dll
+C:\Users\Renzo\Documents\Quark\FizzBuzzKata\FizzBuzzKata\obj\Debug\net5.0\FizzBuzzKata.pdb
+C:\Users\Renzo\Documents\Quark\FizzBuzzKata\FizzBuzzKata\obj\Debug\net5.0\FizzBuzzKata.genruntimeconfig.cache
